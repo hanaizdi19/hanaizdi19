@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am Hana, passionates with data analytics and machine learning. Currently working as a business analyst. I fancy how data can lead us to a decision that possibly never thought of before. 
 
+<a href="https://www.linkedin.com/in/hana-izdihar-nafisyahrin-33a87312a/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanaizdi19&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=000000&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
 
 </div>
